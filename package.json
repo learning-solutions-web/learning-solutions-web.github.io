@@ -4,9 +4,13 @@
   "description": "Tableland Tutoring's static server for webfiles",
   "main": "index.js",
   "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-less": "^1.4.0",
     "node-static": "^0.7.9"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "less": "^2.7.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
