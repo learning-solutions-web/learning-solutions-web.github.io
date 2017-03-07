@@ -4,6 +4,7 @@
   "description": "Tableland Tutoring's static server for webfiles",
   "main": "index.js",
   "dependencies": {
+    "assemble-less": "^0.7.0",
     "grunt": "^1.0.1",
     "grunt-contrib-less": "^1.4.0",
     "node-static": "^0.7.9"
